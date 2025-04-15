@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "price": 799,
+    "image": "/iphone13.jpg",
+    "description": "Apple смартфон с A15 Bionic"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22",
+    "price": 749,
+    "image": "/s22.jpg",
+    "description": "Samsung с камерой 108MP"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "price": 599,
+    "image": "/pixel6.jpg",
+    "description": "Чистый Android и камера от Google"
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 12",
+    "price": 499,
+    "image": "/xiaomi12.jpg",
+    "description": "Мощный и доступный смартфон от Xiaomi"
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 10",
+    "price": 699,
+    "image": "/oneplus10.jpg",
+    "description": "Быстрый интерфейс и зарядка 80W"
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 IV",
+    "price": 899,
+    "image": "/xperia1.jpg",
+    "description": "Флагман Sony с 4K экраном"
+  }
+]
